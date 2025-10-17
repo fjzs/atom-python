@@ -1,0 +1,28 @@
+{
+    "num_facilities": 2,
+    "num_customers": 2,
+    "facilities_fixed_cost": [
+        80.0,
+        90.0
+    ],
+    "facilities_location": [
+        [
+            28,
+            70
+        ],
+        [
+            11,
+            22
+        ]
+    ],
+    "customers_location": [
+        [
+            73,
+            91
+        ],
+        [
+            10,
+            73
+        ]
+    ]
+}

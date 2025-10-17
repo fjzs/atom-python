@@ -1,0 +1,15 @@
+{
+    "open_facilities": [
+        0
+    ],
+    "customer_assignment": [
+        0,
+        0,
+        0,
+        0,
+        0
+    ],
+    "facility_costs": 50.0,
+    "transport_costs": 285.20000000000005,
+    "total_costs": 335.20000000000005
+}
