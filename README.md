@@ -1,5 +1,7 @@
 # ATOM
 This is a framework to test optimization models with continuous integration techniques.
+- Patent Pending
+- © 2025 American Airlines.
 
 ## Installation
 (1) Create a virtual environment with Python 3.13:
