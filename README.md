@@ -75,3 +75,8 @@ To run only unit tests:
 To run only integration tests:
 
 `pytest tests/integration`
+
+## Example of detecting bugs:
+- Look in the code for "BUG 1" to see an example of a bug being caught by unit tests (variable not created correctly)
+- Look in the code for "BUG 2" to see an example of a bug being caught by unit tests (constraint not created correctly)
+- Look in the code for "BUG 3" to see an example of a bug being caught by integration tests (wrong objective function)

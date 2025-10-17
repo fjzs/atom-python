@@ -20,7 +20,7 @@ def assign_customers(model: LpProblem, instance: FacilityLocation) -> None:
             f"AssignCustomer_{c}"
         )
 
-    # # BUG 2: Uncomment the code below to see the unit test fail
+    # # BUG 2: Comment the code above, and uncomment the code below to see the unit test fail
     # for c in range(instance.num_customers):
     #     model += (
     #         lpSum(model.x[(f, c)]*2 for f in range(instance.num_facilities)) == 1, # Introduced a bug by multiplying by 2

@@ -28,7 +28,8 @@ class OptimizationModelPulp:
         assign_customers(self.model, self.instance)
         assigned_customers_imply_open_facility(self.model, self.instance)
 
-        # BUG 3: integration test bug: comment the assigned_customers_imply_open_facility function.
+        # BUG 3: integration test bug: comment the assigned_customers_imply_open_facility function. This will
+        # cause the unit tests to pass, but the integration tests to fail, as the formulation is not assembled correctly.
 
         # Set the objective function
         set_objective(self.model, self.instance)
