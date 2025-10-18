@@ -1,5 +1,5 @@
 # ATOM
-This is a framework to test optimization models with continuous integration techniques.
+ATOM stants for Automated Testing for Optimization Models. This is a framework to test optimization models with continuous integration techniques.
 - Patent Pending
 - © 2025 American Airlines.
 
