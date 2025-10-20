@@ -1,5 +1,6 @@
 # ATOM
-ATOM stands for Automated Testing for Optimization Models. This is a framework to test optimization models with continuous integration techniques.
+ATOM stands for Automated Testing for Optimization Models. This is a framework to test optimization models formulations with continuous integration techniques.
+- Inventor: Francisco Zenteno (contect me here: https://www.linkedin.com/in/francisco-zenteno-smith/)
 - Patent Pending
 - © 2025 American Airlines.
 
