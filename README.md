@@ -3,6 +3,9 @@ ATOM stands for Automated Testing for Optimization Models. This is a framework t
 - Inventor: Francisco Zenteno (contact me here: https://www.linkedin.com/in/francisco-zenteno-smith/)
 - Patent Pending
 - © 2025 American Airlines.
+- Poster presented in Informs 2025: [ATOM Informs Poster.pdf](https://github.com/user-attachments/files/23235452/ATOM.Informs.Poster.pdf)
+- Extended abstract next to be uploaded
+
 
 ## Installation
 (1) Create a virtual environment with Python 3.13:
